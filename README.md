@@ -22,15 +22,15 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [What is Angular Framework?](#what-is-angular-framework)|
-|2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
-|3 | [What is TypeScript?](#what-is-typescript)|
-|4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
-|5 | [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
-|6 | [What are directives?](#what-are-directives)|
-|7 | [What are components?](#what-are-components)|
-|8 | [What are the differences between Component and Directive?](#what-are-the-differences-between-component-and-directive)|
-|9 | [What is a template?](#what-is-a-template)|
+|1| [What is Angular Framework?](#what-is-angular-framework)|
+|2| [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
+|3| [What is TypeScript?](#what-is-typescript)|
+|4| [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
+|5| [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
+|6| [What are directives?](#what-are-directives)|
+|7| [What are components?](#what-are-components)|
+|8| [What are the differences between Component and Directive?](#what-are-the-differences-between-component-and-directive)|
+|9| [What is a template?](#what-is-a-template)|
 |10| [What is a module?](#what-is-a-module)|
 |11| [What are lifecycle hooks available?](#what-are-lifecycle-hooks-available)|
 |12| [What is a data binding?](#what-is-a-data-binding)|
@@ -301,7 +301,6 @@
 |277| [How to create a standalone component uing CLI command?](#how-to-create-a-standalone-component-uing-cli-command)
 |278| [How to create a standalone component manually?](#how-to-create-a-standalone-component-manually)
 |279| [What is hydration ?](#what-is-hydration)
-|279| [](#)
 
 1. ### What is Angular Framework?
 
@@ -2371,13 +2370,13 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-132.  ### What is Bazel tool?
+132. ### What is Bazel tool?
       Bazel is a powerful build tool developed and massively used by Google and it can keep track of the dependencies between different packages and build targets. In Angular8, you can build your CLI application with Bazel.
       **Note:** The Angular framework itself is built with Bazel.
 
    **[⬆ Back to Top](#table-of-contents)**
 
-133.  ### What are the advantages of Bazel tool?
+133. ### What are the advantages of Bazel tool?
       Below are the list of key advantages of Bazel tool,
 
       1. It creates the possibility of building your back-ends and front-ends with the same tool
@@ -4629,7 +4628,7 @@
 
       **[⬆ Back to Top](#table-of-contents)**
 
-278. ### How to create a standalone component uing CLI command?
+277. ### How to create a standalone component uing CLI command?
 
       Generate standalone component using CLI command as shown below
       ```bash
@@ -4703,7 +4702,7 @@
       ```
       
       **[⬆ Back to Top](#table-of-contents)**
-278. ### What is hydration?
+279. ### What is hydration?
       Hydration is the process that restores the server side rendered application on the client. This includes things like reusing the server rendered DOM structures, persisting the application state, transferring application data that was retrieved already by the server, and other processes.
 
       To enable hydration, we have to enable server side rendering or Angular Universal. Once enabled, we can add the following piece of code in the root component.
