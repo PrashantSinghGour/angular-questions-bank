@@ -302,7 +302,7 @@
 |278| [How to create a standalone component manually?](#how-to-create-a-standalone-component-manually)
 |279| [What is hydration ?](#what-is-hydration)
 
-1. ### What is Angular Framework?
+1. ### What is Google's Angular Framework?
 
    Angular is a **TypeScript-based open-source** web application framework maintained by Google for building dynamic web applications. It is particularly well-suited for building Single Page Applications (SPAs), where the entire application runs in a single web page, providing a more fluid user experience similar to that of a desktop application.
 
